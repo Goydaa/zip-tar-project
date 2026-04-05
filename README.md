@@ -1,4 +1,4 @@
-# ZIPFILE и TARFILE - РУКОВОДСТВО 
+# ZIPFILE и TARFILE
  
 ЧТО ТАКОЕ ZIPFILE И TARFILE? 
  
